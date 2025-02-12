@@ -21,5 +21,9 @@ namespace GitDemo
         {
             return a * a;
         }
+        public void Method2()
+        {
+            Console.WriteLine("Method2");
+        }
     }
 }
