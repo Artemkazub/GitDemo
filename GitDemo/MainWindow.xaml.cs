@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -23,6 +24,10 @@ namespace GitDemo
         public MainWindow()
         {
             InitializeComponent();
-        }
+            double x = 0;
+            double y = 0;
+            int pricol = 22;
+            Debug.WriteLine("pricol, x, y");
+            }
     }
 }
