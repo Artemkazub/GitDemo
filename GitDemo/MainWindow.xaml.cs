@@ -194,5 +194,10 @@ namespace GitDemo
             _mediaPlayer.Open(new Uri("C:\\Users\\VEPS\\Desktop\\test git\\GitDemo\\GitDemo\\applepay.wav"));
             _mediaPlayer.Play();
         }
+
+        private void StopKeyPressSound()
+        {
+        //new
+        }
     }
 }
