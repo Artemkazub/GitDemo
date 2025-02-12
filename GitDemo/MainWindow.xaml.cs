@@ -11,6 +11,7 @@ namespace GitDemo
 {
     public partial class MainWindow : Window
     {
+        //Новый коментарий
         private const int SnakeSquareSize = 20;
         private const int SnakeStartLength = 5;
         private const int SnakeStartSpeed = 40; // in milliseconds
