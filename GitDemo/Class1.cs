@@ -12,5 +12,9 @@ namespace GitDemo
         {
             Console.WriteLine("ыыыыы");
         }
+        public void Method1()
+        {
+            Console.WriteLine("Method1");
+        }
     }
 }
