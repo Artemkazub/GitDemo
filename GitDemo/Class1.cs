@@ -8,5 +8,9 @@ namespace GitDemo
 {
     class Class1
     {
+        public void Method5()
+        {
+            Console.WriteLine("ыыыыы");
+        }
     }
 }
